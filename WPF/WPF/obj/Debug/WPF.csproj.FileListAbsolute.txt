@@ -1,0 +1,34 @@
+C:\Users\Ира\Desktop\WPF\WPF\bin\Debug\WPF.exe.config
+C:\Users\Ира\Desktop\WPF\WPF\bin\Debug\WPF.exe
+C:\Users\Ира\Desktop\WPF\WPF\bin\Debug\WPF.pdb
+C:\Users\Ира\Desktop\WPF\WPF\bin\Debug\SinCos.dll
+C:\Users\Ира\Desktop\WPF\WPF\bin\Debug\SinCos.pdb
+C:\Users\Ира\Desktop\WPF\WPF\obj\Debug\WPF.csprojAssemblyReference.cache
+C:\Users\Ира\Desktop\WPF\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ира\Desktop\WPF\WPF\obj\Debug\App.g.cs
+C:\Users\Ира\Desktop\WPF\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\Ира\Desktop\WPF\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\Ира\Desktop\WPF\WPF\obj\Debug\MainWindow.baml
+C:\Users\Ира\Desktop\WPF\WPF\obj\Debug\WPF.g.resources
+C:\Users\Ира\Desktop\WPF\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\Ира\Desktop\WPF\WPF\obj\Debug\WPF.csproj.GenerateResource.cache
+C:\Users\Ира\Desktop\WPF\WPF\obj\Debug\WPF.csproj.CoreCompileInputs.cache
+C:\Users\Ира\Desktop\WPF\WPF\obj\Debug\WPF.csproj.CopyComplete
+C:\Users\Ира\Desktop\WPF\WPF\obj\Debug\WPF.exe
+C:\Users\Ира\Desktop\WPF\WPF\obj\Debug\WPF.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\WPF\WPF\bin\Debug\WPF.exe.config
+C:\Users\ekate\OneDrive\Рабочий стол\WPF\WPF\bin\Debug\WPF.exe
+C:\Users\ekate\OneDrive\Рабочий стол\WPF\WPF\bin\Debug\WPF.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\WPF\WPF\bin\Debug\SinCos.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\WPF\WPF\obj\Debug\WPF.csproj.AssemblyReference.cache
+C:\Users\ekate\OneDrive\Рабочий стол\WPF\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\WPF\WPF\obj\Debug\App.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\WPF\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\ekate\OneDrive\Рабочий стол\WPF\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\ekate\OneDrive\Рабочий стол\WPF\WPF\obj\Debug\MainWindow.baml
+C:\Users\ekate\OneDrive\Рабочий стол\WPF\WPF\obj\Debug\WPF.g.resources
+C:\Users\ekate\OneDrive\Рабочий стол\WPF\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\ekate\OneDrive\Рабочий стол\WPF\WPF\obj\Debug\WPF.csproj.GenerateResource.cache
+C:\Users\ekate\OneDrive\Рабочий стол\WPF\WPF\obj\Debug\WPF.csproj.CoreCompileInputs.cache
+C:\Users\ekate\OneDrive\Рабочий стол\WPF\WPF\obj\Debug\WPF.exe
+C:\Users\ekate\OneDrive\Рабочий стол\WPF\WPF\obj\Debug\WPF.pdb

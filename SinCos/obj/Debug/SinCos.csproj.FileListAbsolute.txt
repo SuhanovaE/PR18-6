@@ -1,0 +1,18 @@
+C:\Users\Студент\Desktop\SinCos\bin\Debug\SinCos.dll
+C:\Users\Студент\Desktop\SinCos\bin\Debug\SinCos.pdb
+C:\Users\Студент\Desktop\SinCos\obj\Debug\SinCos.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\SinCos\obj\Debug\SinCos.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\SinCos\obj\Debug\SinCos.dll
+C:\Users\Студент\Desktop\SinCos\obj\Debug\SinCos.pdb
+C:\Users\Ира\Desktop\SinCos-main\SinCos\bin\Debug\SinCos.dll
+C:\Users\Ира\Desktop\SinCos-main\SinCos\bin\Debug\SinCos.pdb
+C:\Users\Ира\Desktop\SinCos-main\SinCos\obj\Debug\SinCos.csprojAssemblyReference.cache
+C:\Users\Ира\Desktop\SinCos-main\SinCos\obj\Debug\SinCos.csproj.CoreCompileInputs.cache
+C:\Users\Ира\Desktop\SinCos-main\SinCos\obj\Debug\SinCos.dll
+C:\Users\Ира\Desktop\SinCos-main\SinCos\obj\Debug\SinCos.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\SinCos\bin\Debug\SinCos.dll
+C:\Users\ekate\OneDrive\Рабочий стол\SinCos\bin\Debug\SinCos.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\SinCos\obj\Debug\SinCos.csproj.AssemblyReference.cache
+C:\Users\ekate\OneDrive\Рабочий стол\SinCos\obj\Debug\SinCos.csproj.CoreCompileInputs.cache
+C:\Users\ekate\OneDrive\Рабочий стол\SinCos\obj\Debug\SinCos.dll
+C:\Users\ekate\OneDrive\Рабочий стол\SinCos\obj\Debug\SinCos.pdb
